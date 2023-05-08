@@ -1,0 +1,33 @@
+body{background-color: rgb(237, 236, 230);}
+
+
+h1{color: black ;
+text-align: center;}
+.warning {
+    border: 5px ridge rgb(28, 30, 84);
+    background-color: rgb(161, 227, 224);
+    padding: ;
+    display: flex;
+    flex-direction: column;
+}
+.warning img {
+    width : 100%;
+}
+.warning p {
+    font: ;
+    text-align : center;
+}
+.ngatie {
+    border : 1px ridge rgb(0, 0, 0);
+    background-color: rgb(23, 30, 79);
+    display: inline-block;
+    flex-direction: column;
+    width: 100%
+    }
+.ngatie img {
+    width: ;
+}
+.ngatie p {
+    font : 
+}
+div{color: white;}
