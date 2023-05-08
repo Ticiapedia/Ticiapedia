@@ -1,0 +1,16 @@
+h1{color: black ;
+text-align: center;}
+.warning {
+border: 5px ridge rgb(28, 30, 84);
+background-image: rgb(161, 227, 224);
+padding: ;
+display: flex;
+flex-direction: column;
+}
+.warning img {
+width : 100%;
+}
+.warning p {
+font: ;
+text-align : center;
+}
